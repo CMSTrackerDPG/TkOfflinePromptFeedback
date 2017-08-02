@@ -1,0 +1,23 @@
+<table border="1">
+<tr>
+<th> </th>
+<th>Dataset</th>
+<th>Era</th>
+<th>APV mode</th>
+</tr>
+<tr>
+<td>Run RUN_NUMBER</td>
+<td>RUN_DATASET</td>
+<td>RUN_ERA</td>
+<td>RUN_APV_MODE</td>
+</tr>
+<tr>
+<td>Ref REF_NUMBER</td>
+<td>REF_DATASET</td>
+<td>REF_ERA</td>
+<td>REF_APV_MODE</td>
+</tr>
+</table>
+<br />
+Quick link to the DQM GUI: <a href="GUI_LINK" target="_blank">here</a>.
+<br />
